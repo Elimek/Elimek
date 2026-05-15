@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Elimek+%F0%9F%91%8B;AI+Engineer+%F0%9F%A7%A0;LLM+%26+Agentic+AI+Stuff;Building+Cool+Agents" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Elimek+%F0%9F%91%8B;AI+%E5%B7%A5%E7%A8%8B%E5%B8%88+%F0%9F%A7%A0;LLM+%26+Agentic+AI;%E6%90%9E%E4%BA%8B%E6%83%85%E7%9A%84%E4%BA%BA" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -9,21 +9,22 @@
 ---
 
 ```yaml
+# 中文 / EN
 name: Elimek
-role: AI Engineer
-vibe: LLMs · Agents · RAG · Autonomous Systems
+role: AI 工程师 / AI Engineer
+vibe: LLMs · Agents · RAG · 搞事情 / Building cool stuff
 
-currently:
-  - building AI agents that actually work
-  - messing around with multi-agent orchestration
-  - learning: tool-use, function calling, fine-tuning
+currently / 近况:
+  - 🏗️ 搞 AI Agent，让它真正干活 / Building AI agents that actually work
+  - 🔄 研究多智能体编排 / Messing with multi-agent orchestration
+  - 📚 学 tool-use、function calling、微调 / Learning tool-use, FC, fine-tuning
 
-fun_fact: "I break things then fix them better"
+fun_fact / 冷知识: "拆了再修，通常更好 / I break things then fix them better"
 ```
 
 ---
 
-## 🧰 Stuff I Use
+## 🧰 技术栈 / Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -57,18 +58,18 @@ fun_fact: "I break things then fix them better"
 
 ---
 
-## 📌 Projects I've Built
+## 📌 项目 / Projects
 
-| Project | What it does |
-|---------|-------------|
-| [RedWolf IT Ops Suite](https://github.com/Elimek/RedWolf-IT-Ops-Suite) | AI monitor + ticket classifier + e-commerce lite — all in one |
-| [Stock Breakout Multi-Agent](https://github.com/Elimek/stock-breakout-multi-agent) | Multi-agent screener for 1H momentum breakouts |
-| [Dan Koe Perspective](https://github.com/Elimek/dan-koe-perspective) | AI agent skill — Deep Generalist mindset overlay |
-| *more coming...* | *stay tuned* |
+| Project | 说明 / Description |
+|---------|-------------------|
+| [RedWolf IT Ops Suite](https://github.com/Elimek/RedWolf-IT-Ops-Suite) | AI 监控 + 工单分类 + 电商一体 / AI monitor + ticket classifier + e-commerce lite |
+| [Stock Breakout Multi-Agent](https://github.com/Elimek/stock-breakout-multi-agent) | 多智能体股票突破扫描器 / Multi-agent momentum breakout screener |
+| [Dan Koe Perspective](https://github.com/Elimek/dan-koe-perspective) | AI 思维框架技能 / AI perspective skill — Deep Generalist mindset |
+| *more coming...* | *敬请期待 / stay tuned* |
 
 ---
 
-## 🐍 Contributions
+## 🐍 贡献图 / Contributions
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elimek&theme=redical&hide_border=true&area=true&custom_title=Activity%20Graph" width="95%" />
@@ -81,10 +82,10 @@ fun_fact: "I break things then fix them better"
 ---
 
 <div align="center">
-  <i>made with ☕ and a bit of ✨</i>
+  <i>☕ + ✨ = 🚀</i>
   <br/>
   <br/>
   <a href="#">
-    <img src="https://img.shields.io/badge/⬆%20top-FF6B6B?style=flat-square" />
+    <img src="https://img.shields.io/badge/%E2%86%91%20top-%E5%9B%9E%E5%88%B0%E9%A1%B6%E9%83%A8-FF6B6B?style=flat-square" />
   </a>
 </div>
