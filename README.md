@@ -1,91 +1,129 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Elimek+%F0%9F%91%8B;AI+%E5%B7%A5%E7%A8%8B%E5%B8%88+%F0%9F%A7%A0;LLM+%26+Agentic+AI;%E6%90%9E%E4%BA%8B%E6%83%85%E7%9A%84%E4%BA%BA" alt="Typing SVG" />
+
+<!-- Glassmorphism header -->
+<svg width="800" height="180" viewBox="0 0 800 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFF0F3;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FFE4E9;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="glass" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFFFFF;stop-opacity:0.6" />
+      <stop offset="100%" style="stop-color:#FFFFFF;stop-opacity:0.2" />
+    </linearGradient>
+    <filter id="blur">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="8" />
+    </filter>
+  </defs>
+  <!-- Background -->
+  <rect width="800" height="180" rx="20" fill="url(#bg)" />
+  <!-- Glass circle decorations -->
+  <circle cx="120" cy="40" r="60" fill="#FFB5C2" opacity="0.3" filter="url(#blur)" />
+  <circle cx="680" cy="140" r="80" fill="#FFC4D0" opacity="0.25" filter="url(#blur)" />
+  <circle cx="400" cy="90" r="90" fill="#FFD6DE" opacity="0.2" filter="url(#blur)" />
+  <!-- Glass card -->
+  <rect x="60" y="30" width="680" height="120" rx="16" fill="url(#glass)" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.8" />
+  <!-- Text -->
+  <text x="400" y="72" text-anchor="middle" font-family="system-ui, sans-serif" font-size="32" font-weight="700" fill="#8B5E6B">Elimek</text>
+  <text x="400" y="105" text-anchor="middle" font-family="system-ui, sans-serif" font-size="18" font-weight="500" fill="#B07A8A">AI 工程师 · LLM & Agentic AI</text>
+  <text x="400" y="132" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#C08E9E">搞事情的人 / Building cool stuff</text>
+</svg>
+
+<br>
+
+<!-- Glassmorphism stats bar -->
+<svg width="600" height="50" viewBox="0 0 600 50" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FFFFFF;stop-opacity:0.5" />
+      <stop offset="50%" style="stop-color:#FFFFFF;stop-opacity:0.3" />
+      <stop offset="100%" style="stop-color:#FFFFFF;stop-opacity:0.5" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="5" width="600" height="40" rx="12" fill="url(#g2)" stroke="#FFFFFF" stroke-width="1" stroke-opacity="0.6" />
+  <text x="300" y="30" text-anchor="middle" font-family="monospace" font-size="13" fill="#B07A8A">✦  visitor · 0 followers · 3 repos  ✦</text>
+</svg>
+
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Elimek&style=flat-square&color=FF6B6B" alt="visitors" />
+  <img src="https://komarev.com/ghpvc/?username=Elimek&style=flat-square&color=FFB5C2" alt="visitors" />
 </p>
 
----
+<br>
 
 ```yaml
 # 中文 / EN
 name: Elimek
 role: AI 工程师 / AI Engineer
-vibe: LLMs · Agents · RAG · 搞事情 / Building cool stuff
+vibe: LLMs · Agents · RAG
 
-currently / 近况:
-  - 🏗️ 搞 AI Agent，让它真正干活 / Building AI agents that actually work
-  - 🔄 研究多智能体编排 / Messing with multi-agent orchestration
-  - 📚 学 tool-use、function calling、微调 / Learning tool-use, FC, fine-tuning
+近况 / currently:
+  - 搞 AI Agent，让它真正干活
+  - 研究多智能体编排
+  - 学 tool-use、微调
 
-fun_fact / 冷知识: "拆了再修，通常更好 / I break things then fix them better"
+冷知识 / fun fact: "拆了再修，通常更好"
 ```
 
----
+<br>
 
-## 🧰 技术栈 / Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square&logo=chromadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
+<!-- Stats cards with pink glass theme -->
 <p align="center">
   <a href="https://github.com/Elimek">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Elimek&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elimek&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Elimek&show_icons=true&theme=shadow_red&hide_border=true&count_private=true&include_all_commits=true&bg_color=1a0f12&title_color=FFB5C2&text_color=e0c0c8&icon_color=FFB5C2&border_color=FFB5C2&border_radius=16">
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Elimek&show_icons=true&theme=shadow_red&hide_border=true&count_private=true&include_all_commits=true&bg_color=FFF0F3&title_color=B07A8A&text_color=8B5E6B&icon_color=FFB5C2&border_radius=16" />
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Elimek&layout=compact&theme=shadow_red&hide_border=true&langs_count=8&bg_color=1a0f12&title_color=FFB5C2&text_color=e0c0c8&border_color=FFB5C2&border_radius=16">
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elimek&layout=compact&theme=shadow_red&hide_border=true&langs_count=8&bg_color=FFF0F3&title_color=B07A8A&text_color=8B5E6B&border_radius=16" />
+    </picture>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elimek&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elimek&theme=shadow_red&hide_border=true&background=FFF0F3&stroke=FFB5C2&ring=FFB5C2&fire=FF9AAE&currStreakLabel=B07A8A&sideLabels=B07A8A&dates=8B5E6B&border_radius=16" />
 </p>
 
----
+<br>
 
-## 📌 项目 / Projects
-
-| Project | 说明 / Description |
-|---------|-------------------|
-| [RedWolf IT Ops Suite](https://github.com/Elimek/RedWolf-IT-Ops-Suite) | AI 监控 + 工单分类 + 电商一体 / AI monitor + ticket classifier + e-commerce lite |
-| [Stock Breakout Multi-Agent](https://github.com/Elimek/stock-breakout-multi-agent) | 多智能体股票突破扫描器 / Multi-agent momentum breakout screener |
-| [Dan Koe Perspective](https://github.com/Elimek/dan-koe-perspective) | AI 思维框架技能 / AI perspective skill — Deep Generalist mindset |
-| *more coming...* | *敬请期待 / stay tuned* |
-
----
-
-## 🐍 贡献图 / Contributions
+## 🎀 Projects
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elimek&theme=redical&hide_border=true&area=true&custom_title=Activity%20Graph" width="95%" />
+
+| | | |
+|---|---|---|
+| 🛒 **RedWolf IT Ops Suite** | 📈 **Stock Breakout Multi-Agent** | 🧠 **Dan Koe Perspective** |
+| AI 监控+工单分类+电商 | 多智能体股票突破扫描 | AI 思维框架技能 |
+| [→ 看看](https://github.com/Elimek/RedWolf-IT-Ops-Suite) | [→ 看看](https://github.com/Elimek/stock-breakout-multi-agent) | [→ 看看](https://github.com/Elimek/dan-koe-perspective) |
+
+</p>
+
+<br>
+
+## 🐍
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elimek&theme=github-light&hide_border=true&area=true&color=FFB5C2&line=FFB5C2&point=B07A8A&bg_color=FFF5F7&title_color=B07A8A&custom_title=%20" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Elimek/Elimek/output/github-contribution-grid-snake-dark.svg" width="95%" alt="snake" />
+  <img src="https://raw.githubusercontent.com/Elimek/Elimek/output/github-contribution-grid-snake-dark.svg" width="70%" alt="snake" />
 </p>
 
----
+<br>
 
 <div align="center">
-  <i>☕ + ✨ = 🚀</i>
-  <br/>
-  <br/>
-  <a href="#">
-    <img src="https://img.shields.io/badge/%E2%86%91%20top-%E5%9B%9E%E5%88%B0%E9%A1%B6%E9%83%A8-FF6B6B?style=flat-square" />
-  </a>
+  <svg width="300" height="40" viewBox="0 0 300 40" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="g3" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#FFFFFF;stop-opacity:0.4" />
+        <stop offset="50%" style="stop-color:#FFFFFF;stop-opacity:0.6" />
+        <stop offset="100%" style="stop-color:#FFFFFF;stop-opacity:0.4" />
+      </linearGradient>
+    </defs>
+    <rect x="20" y="5" width="260" height="30" rx="10" fill="url(#g3)" stroke="#FFB5C2" stroke-width="0.8" stroke-opacity="0.5" />
+    <text x="150" y="25" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#B07A8A">☕ + ✨ = 🚀</text>
+  </svg>
 </div>
