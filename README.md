@@ -79,4 +79,15 @@ current_focus:
   <sub>☕ + ✨ = 🚀</sub>
   <br>
   <sub>made with 🎀 light pink & glass vibes</sub>
+
+
+## Knowledge Base
+
+| | |
+|---|---|
+| 🧠 **Skills** | [→](https://github.com/Elimek/Elimek/tree/main/knowledge/skills) |
+| 📂 **Projects** | [→](https://github.com/Elimek/Elimek/tree/main/knowledge/projects) |
+| 💾 **Memory** | [→](https://github.com/Elimek/Elimek/tree/main/knowledge/memory) |
+| 📋 **Methodology** | [→](https://github.com/Elimek/Elimek/tree/main/knowledge/methodology) |
+
 </div>
