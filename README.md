@@ -3,9 +3,13 @@
 </p>
 
 <p align="center">
-  <b>AI 工程师</b> · LLM & Agentic AI · 搞事情的人
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B07A8A&background=FFF0F300&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+LLM+%26+Agentic+AI;Project-based+knowledge+workflow;RAG+%2B+Self-improving+loops;Multi-Agent+Orchestration" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <b>Elimek</b> · AI Engineer / AI Scientist
   <br>
-  <sub>Building cool stuff with AI agents</sub>
+  <sub>搞 AI Agent、RAG、多智能體系統。以 project 為單位堆疊知識與技能。</sub>
 </p>
 
 <p align="center">
@@ -16,18 +20,37 @@
 
 ---
 
+## 關於我
+
+- 專注 LLM / Agentic AI / RAG / Multi-Agent orchestration
+- 用 **project-based** 的方式經營知識庫與技能庫
+- 每個 repo 對應一套可運行的能力，skills 掛在 project 下面，隨時可展示、可移植
+- 相信「拆了再修，通常更好」
+
 ```yaml
-name: Elimek
-role: AI 工程师 / AI Engineer
-vibe: LLMs · Agents · RAG
-
-近况:
-  - 搞 AI Agent，让它真正干活
-  - 研究多智能体编排
-  - 学 tool-use、微调
-
-fun fact: "拆了再修，通常更好"
+stack:
+  - LLMs & tool-use
+  - RAG & retrieval pipelines
+  - Multi-agent orchestration
+  - Fine-tuning & LoRA
+  - Self-improving workflows
+current_focus:
+  - Memory / RAG 內容同步到 GitHub
+  - Skills manifest 與 project 綁定
+  - Agentic 系統實戰
 ```
+
+<br>
+
+## 精選專案
+
+| | |
+|---|---|
+| 🛒 **RedWolf IT Ops Suite**<br>AI 監控 + 工單分類 + 電商 | [→](https://github.com/Elimek/RedWolf-IT-Ops-Suite) |
+| 📈 **Stock Breakout Multi-Agent**<br>多智能體股票突破掃描 | [→](https://github.com/Elimek/stock-breakout-multi-agent) |
+| 🧠 **Dan Koe Perspective**<br>AI 思維框架技能 | [→](https://github.com/Elimek/dan-koe-perspective) |
+| 🔍 **Weibo RAG Pipeline**<br>RAG pipeline for weibo data | [→](https://github.com/Elimek/weibo-rag-pipeline) |
+| 🧩 **CSL Usage**<br>CSL 使用研究 | [→](https://github.com/Elimek/csl-usage) |
 
 <br>
 
@@ -39,16 +62,6 @@ fun fact: "拆了再修，通常更好"
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elimek&theme=shadow_red&hide_border=true&background=FFF0F3&stroke=FFB5C2&ring=FFB5C2&fire=FF9AAE&currStreakLabel=B07A8A&sideLabels=B07A8A&dates=8B5E6B&border_radius=16" />
 </p>
-
-<br>
-
-## 📌 Projects
-
-| | |
-|---|---|
-| 🛒 **RedWolf IT Ops Suite**<br>AI 监控+工单分类+电商 / AI monitor + ticket classifier | [→](https://github.com/Elimek/RedWolf-IT-Ops-Suite) |
-| 📈 **Stock Breakout Multi-Agent**<br>多智能体股票突破扫描 / Multi-agent breakout screener | [→](https://github.com/Elimek/stock-breakout-multi-agent) |
-| 🧠 **Dan Koe Perspective**<br>AI 思维框架技能 / AI perspective skill | [→](https://github.com/Elimek/dan-koe-perspective) |
 
 <br>
 
