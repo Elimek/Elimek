@@ -46,11 +46,9 @@ current_focus:
 
 | | |
 |---|---|
-| 🛒 **RedWolf IT Ops Suite**<br>AI 監控 + 工單分類 + 電商 | [→](https://github.com/Elimek/RedWolf-IT-Ops-Suite) |
 | 📈 **Stock Breakout Multi-Agent**<br>多智能體股票突破掃描 | [→](https://github.com/Elimek/stock-breakout-multi-agent) |
 | 🧠 **Dan Koe Perspective**<br>AI 思維框架技能 | [→](https://github.com/Elimek/dan-koe-perspective) |
 | 🔍 **Weibo RAG Pipeline**<br>RAG pipeline for weibo data | [→](https://github.com/Elimek/weibo-rag-pipeline) |
-| 🧩 **CSL Usage**<br>CSL 使用研究 | [→](https://github.com/Elimek/csl-usage) |
 
 <br>
 
